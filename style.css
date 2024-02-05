@@ -1,0 +1,23 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+.table
+{
+    margin-top: 20px;
+    background-color: #3B8C6E;
+}
+button
+{
+    width: 30px;
+    height: 30px;
+  background-color: transparent;
+  color: white;
+    border: none;
+}
+#result
+{
+width: 250px;
+}
